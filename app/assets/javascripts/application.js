@@ -15,4 +15,5 @@
 //= require activestorage
 //= require turbolinks
 //= require jorge
+
 //= require_tree .
