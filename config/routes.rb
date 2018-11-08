@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   	collection do
   		put :metodo_especial
   	end
-  end	
+  end
 
+  root 'products#index'
 end
